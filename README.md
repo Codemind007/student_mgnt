@@ -4,3 +4,4 @@ Technologies used are:
 2. Angular
 3. Java
 4. Jenkins
+5. Selenium
