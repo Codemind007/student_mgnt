@@ -7,3 +7,5 @@ Technologies used are:
 5. Selenium
 6. React
 7. Value.js
+8. Test
+9. UI
