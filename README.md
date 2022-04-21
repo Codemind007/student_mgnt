@@ -5,3 +5,5 @@ Technologies used are:
 3. Java
 4. Jenkins
 5. Selenium
+6. React
+7. Value.js
