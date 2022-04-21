@@ -11,3 +11,4 @@ Technologies used are:
 9. UI
 10. Bootstrap
 11. SASS
+12. CSS
